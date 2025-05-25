@@ -1,8 +1,16 @@
 <div align="center">
-  <p>
-    <a href="https://www.ultralytics.com/events/yolovision" target="_blank">
+<!--   <p>
+    <a href="#" target="_blank">
       <img width="100%" src="https://raw.githubusercontent.com/ultralytics/assets/main/yolov8/banner-yolov8.png" alt="YOLO Vision banner"></a>
-  </p>
+  </p> -->
+
+ <p>
+  <a href="#" target="_blank">
+    <img width="100%" src="https://github.com/raselsarker69/Ultralytics-YOLO11-and-YOLOv8/blob/main/Day-00/yolobanner.png" alt="YOLO Vision banner">
+  </a>
+</p>
+
+<!-- Removed the "Register now" button and the second line -->
 
 
 <br>
